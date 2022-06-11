@@ -1,0 +1,2 @@
+# FindIE
+Active Directory環境下にあるクライアントPCでIEを起動したイベントを収集します。
